@@ -2,6 +2,9 @@
 
 **TruthLens AI** is an autonomous multi-agent fact verification system. It is not a chatbot — it is an AI agent pipeline that plans tasks, performs internet searches, gathers evidence, reasons over that evidence, assigns confidence scores, and produces structured verification reports.
 
+🚀 **Live Production App**: [https://frontend-xi-kohl-41.vercel.app](https://frontend-xi-kohl-41.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/umugash/truthlens-ai](https://github.com/umugash/truthlens-ai)
+
 ## Architecture
 
 ```
@@ -9,12 +12,12 @@ truthlens-ai/
 ├── backend/                 # FastAPI + LangGraph agent pipeline
 │   └── app/
 │       ├── agents/          # Individual agent modules + LangGraph workflow
-│       ├── api/             # REST API routes
-│       ├── services/        # LLM (Gemini) and Tavily search services
+│       ├── api/             # REST API routes (standard + SSE streaming)
+│       ├── services/        # LLM (Gemini) and Tavily search services with caching
 │       ├── types/           # Pydantic models
 │       └── utils/           # Prompts and JSON helpers
-├── frontend/                # Next.js App Router UI
-│   ├── app/                 # Pages and layout
+├── frontend/                # Next.js App Router UI & Serverless API
+│   ├── app/                 # Pages, layout, and native serverless /api routes
 │   ├── components/          # React components (UI + feature)
 │   ├── lib/                 # API client, history, export utilities
 │   └── types/               # TypeScript type definitions
