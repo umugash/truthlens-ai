@@ -1,9 +1,10 @@
 import { VerificationReport } from "@/types";
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "";
 
 export async function verifyText(text: string): Promise<VerificationReport> {
-  const response = await fetch(`${API_BASE}/api/verify`, {
+  const url = API_BASE ? `${API_BASE}/api/verify` : "/api/verify";
+  const response = await fetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ text }),
@@ -19,7 +20,8 @@ export async function verifyText(text: string): Promise<VerificationReport> {
 
 export async function checkHealth(): Promise<boolean> {
   try {
-    const response = await fetch(`${API_BASE}/api/health`);
+    const url = API_BASE ? `${API_BASE}/api/health` : "/api/health";
+    const response = await fetch(url);
     return response.ok;
   } catch {
     return false;
