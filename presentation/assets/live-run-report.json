@@ -1,0 +1,300 @@
+{
+  "original_text": "Breaking: Apple has acquired OpenAI in a landmark $50 billion deal. The acquisition was announced yesterday and will integrate ChatGPT into all Apple devices starting next month. CEO Tim Cook confirmed the deal at a press conference in Cupertino.",
+  "claims": [
+    {
+      "claim": {
+        "id": 1,
+        "text": "Apple has acquired OpenAI in a $50 billion deal."
+      },
+      "verdict": "FALSE",
+      "confidence": 95,
+      "reasoning": "The collected evidence indicates that Apple and OpenAI have a partnership (integrating ChatGPT into Apple operating systems) and that OpenAI has acquired an AI startup from an ex-Apple designer (for $6.4 billion) and hired former Apple staff. There is no evidence of an acquisition of OpenAI by Apple in a $50 billion deal; rather, the evidence shows them as separate entities partnering or competing in certain hardware/software spaces.",
+      "evidence": [
+        {
+          "source_title": "Apple shares fall as iPhone designer's AI startup is acquired by OpenAi for $6.4 billion",
+          "source_url": "https://www.cnbc.com/video/2025/05/21/apple-shares-fall-as-iphone-designers-ai-startup-is-acquired-by-openai-for-6-point-4-billion.html",
+          "summary": "Data is a real-time snapshot \\Data is delayed at least 15 minutes.\nGlobal Business and Financial News, Stock Quotes, and Market Data\nand Analysis.\n\nData also provided byReuters logo\n\nReuters logo [...] #### News Tips\n\nGot a confidential news tip? We want to hear from you.\n\n#### CNBC Newsletters\n\nSig",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "OpenAI’s $50 Billion Fundraise, AI Advertising Game Theory, Apple’s AI Wearable Pin",
+          "source_url": "https://www.youtube.com/watch?v=nydvN4icgu4",
+          "summary": "[40:34] very interesting because it shared a number of different AI products that Apple's working on and just seeing it all in context was interesting. So it says Apple's PIN joins a growing\n[40:43] portfolio of AI powered products the tech giant has under development including AirPods equipped with",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "OpenAI takes on Apple: iPhone designer's company acquired by OpenAI for $6.4 billion",
+          "source_url": "https://www.cnbc.com/video/2025/05/22/openai-takes-on-apple-iphone-designers-company-acquired-by-openai-for-6-point-4-billion.html",
+          "summary": "watch now\nwatch now\nVIDEO\n02:11\nTransportation Sec. Duffy says ground stoppage is due to communication issues\nwatch now\nwatch now\nVIDEO\n05:21\nFed releases financial stability report, respondents raised concerns around AI\nwatch now\nwatch now\nVIDEO\n00:37\nFAA issues nationwide ground stop\nwatch now\nwat",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "OpenAI and Apple announce partnership | OpenAI",
+          "source_url": "https://openai.com/index/openai-and-apple-announce-partnership",
+          "summary": "Audio 1\n\nShare\n\n_Editor’s Note: This news was shared at Apple's Worldwide Developer Conference 2024. You can also read about the news__here_⁠(opens in a new window)_._\n\nApple is integrating ChatGPT into experiences within iOS, iPadOS, and macOS, allowing users to access ChatGPT’s capabilities—includ",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Apple-supplier Luxshare shares pop 10% on report of OpenAI hardware deal",
+          "source_url": "https://www.cnbc.com/amp/2025/09/22/apple-supplier-luxshare-shares-pop-10percent-on-report-of-openai-hardware-deal.html",
+          "summary": "OpenAI has long been signaling a desire to push into dedicated AI devices, presenting a potential challenge to Apple and its iPhone.\n\nAs part of these plans, The Information reported that OpenAI has been poaching staff from Apple to join its hardware division, now led by ex-Apple executive Tang Tan.",
+          "stance": "neutral"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Apple shares fall as iPhone designer's AI startup is acquired by OpenAi for $6.4 billion",
+          "url": "https://www.cnbc.com/video/2025/05/21/apple-shares-fall-as-iphone-designers-ai-startup-is-acquired-by-openai-for-6-point-4-billion.html",
+          "snippet": "Data is a real-time snapshot \\Data is delayed at least 15 minutes.\nGlobal Business and Financial News, Stock Quotes, and Market Data\nand Analysis.\n\nData also provided byReuters logo\n\nReuters logo [...] #### News Tips\n\nGot a confidential news tip? We want to hear from you.\n\n#### CNBC Newsletters\n\nSign up for free newsletters and get more CNBC delivered to your inbox\n\nGet this delivered to your inbox, and more info about our products and services.\n\n#### Advertise With Us\n\nCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon\n\n© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company. [...] No indication bad actors are involved with JPMorgan Chase technical issue\nNvidia board not considering bringing Jensen Huang back as CEO, source tells CNBC\nAltimeter's Gerstner: We're putting in for $5 billion on Anthropic's IPO\nAltimeter's Brad Gerstner: Colette Kress is very capable to run Nvidia in the interim\nAltimeter's Brad Gerstner: Jensen Huang not discussing returning to Nvidia with me\nNo indication bad actors are involved with JPMorgan Chase technical issue",
+          "publication_date": null
+        },
+        {
+          "title": "OpenAI’s $50 Billion Fundraise, AI Advertising Game Theory, Apple’s AI Wearable Pin",
+          "url": "https://www.youtube.com/watch?v=nydvN4icgu4",
+          "snippet": "[40:34] very interesting because it shared a number of different AI products that Apple's working on and just seeing it all in context was interesting. So it says Apple's PIN joins a growing\n[40:43] portfolio of AI powered products the tech giant has under development including AirPods equipped with enhanced sensors, a security camera, smart glasses, and augmented reality glasses. [...] [11:55] rate limits and people have been frustrated by them um and maybe they would use the products more if they weren't rate limited. Uh and OpenAI is\n[12:03] basically saying look you follow our compute our uh our revenue tracks directly with it. Therefore adding you\n[12:11] know many you know $50 billion potentially they haven't I don't think they've confirmed that number is a good bet that we will make the money. [...] # OpenAI’s $50 Billion Fundraise, AI Advertising Game Theory, Apple’s AI Wearable Pin\n## Channel: Alex Kantrowitz (verified)\n70.4K subscribers",
+          "publication_date": null
+        },
+        {
+          "title": "OpenAI takes on Apple: iPhone designer's company acquired by OpenAI for $6.4 billion",
+          "url": "https://www.cnbc.com/video/2025/05/22/openai-takes-on-apple-iphone-designers-company-acquired-by-openai-for-6-point-4-billion.html",
+          "snippet": "watch now\nwatch now\nVIDEO\n02:11\nTransportation Sec. Duffy says ground stoppage is due to communication issues\nwatch now\nwatch now\nVIDEO\n05:21\nFed releases financial stability report, respondents raised concerns around AI\nwatch now\nwatch now\nVIDEO\n00:37\nFAA issues nationwide ground stop\nwatch now\nwatch now\nVIDEO\n15:00\nHow the Hormuz crisis is threatening global fertilizer supplies\nwatch now\nwatch now\nVIDEO\n11:46 [...] Share Article via Email\nSquawk Box\nOpenAI takes on Apple: iPhone designer's company acquired by OpenAI for $6.4 billion\nCNBC’s Steve Kovach joins 'Squawk Box' to report on the latest news from Open AI and Jony Ive.\n05:45\nThu, May 22 2025\n7:34 AM EDT\nSteve Kovach\nwatch now\nwatch now\nVIDEO\n15:00\nHow the Hormuz crisis is threatening global fertilizer supplies\nwatch now\nwatch now\nVIDEO\n11:46\nHomeland Security Sec. Mullin: President Trump has been briefed on nationwide ground stop\nwatch now [...] VIDEO\n11:46\nHomeland Security Sec. Mullin: President Trump has been briefed on nationwide ground stop\nwatch now\nwatch now\nVIDEO\n02:11\nTransportation Sec. Duffy says ground stoppage is due to communication issues\nwatch now\nwatch now\nVIDEO\n05:21\nFed releases financial stability report, respondents raised concerns around AI\nwatch now\nwatch now\nVIDEO\n00:37\nFAA issues nationwide ground stop\nLoad More",
+          "publication_date": null
+        },
+        {
+          "title": "OpenAI and Apple announce partnership | OpenAI",
+          "url": "https://openai.com/index/openai-and-apple-announce-partnership",
+          "snippet": "Audio 1\n\nShare\n\n_Editor’s Note: This news was shared at Apple's Worldwide Developer Conference 2024. You can also read about the news__here_⁠(opens in a new window)_._\n\nApple is integrating ChatGPT into experiences within iOS, iPadOS, and macOS, allowing users to access ChatGPT’s capabilities—including image and document understanding—without needing to jump between tools. [...] > We’re excited to partner with Apple to bring ChatGPT to their users in a new way. Apple shares our commitment to safety and innovation, and this partnership aligns with OpenAI's mission to make advanced AI accessible to everyone. Together with Apple, we’re making it easier for people to benefit from what AI can offer.\n\nSam Altman, CEO of OpenAI\n\n   Partnerships\n   2024\n\n## Author\n\nOpenAI\n\nResearch\n   Research Index\n   Research Overview\n   Economic Research [...] Siri can also tap into ChatGPT’s intelligence when helpful. Apple users are asked before any questions are sent to ChatGPT, along with any documents or photos, and Siri then presents the answer directly.\n\nAdditionally, ChatGPT will be available in Apple’s systemwide Writing Tools, to help users generate content for anything they are writing about. Users can also tap into ChatGPT image tools to generate images in a wide variety of styles to complement what they are writing.",
+          "publication_date": null
+        },
+        {
+          "title": "Apple-supplier Luxshare shares pop 10% on report of OpenAI hardware deal",
+          "url": "https://www.cnbc.com/amp/2025/09/22/apple-supplier-luxshare-shares-pop-10percent-on-report-of-openai-hardware-deal.html",
+          "snippet": "OpenAI has long been signaling a desire to push into dedicated AI devices, presenting a potential challenge to Apple and its iPhone.\n\nAs part of these plans, The Information reported that OpenAI has been poaching staff from Apple to join its hardware division, now led by ex-Apple executive Tang Tan. [...] Earlier this year, the AI company, headed by Sam Altman, partnered with former Apple designer Jony Ive after buying his hardware startup, io Products, in a $6.4 billion deal. Ive is responsible for designing many of Apple's most iconic products, including the iPhone, iPad and MacBook Air.\n\nAn OpenAI partnership with Luxshare would bring Apple's longtime supplier — responsible for assembling items like the AirPods and Vision Pro — into the AI comapny's orbit. [...] Luxshare's 10% jump brought its year-to-date gains to about 50%. Most stocks on the Shenzhen Stock Exchange aren't allowed to trade up or down more than 10% in a single day, relative to the previous day's closing price. The company is also reportedly considering a secondary listing in Hong Kong this year.\n\nLuxshare and OpenAI did not immediately respond to CNBC's requests for comment.",
+          "publication_date": null
+        }
+      ]
+    },
+    {
+      "claim": {
+        "id": 2,
+        "text": "The acquisition was announced yesterday."
+      },
+      "verdict": "UNSUPPORTED",
+      "confidence": 100,
+      "reasoning": "The collected evidence confirms that an acquisition involving FACT II Acquisition Corp. and Precision Aerospace & Defense Group took place, but none of the provided sources contain any information regarding the timing of the announcement or whether it occurred 'yesterday'. Therefore, there is insufficient evidence to verify this specific aspect of the claim.",
+      "evidence": [
+        {
+          "source_title": "FACT II Acquisition (FACT) Stock News & Updates | StockTitan",
+          "source_url": "https://www.stocktitan.net/news/FACT",
+          "summary": "The snippet discusses an announcement regarding a Letter of Intent for an acquisition involving Precision Aerospace & Defense Group, but it does not specify when the announcement was made.",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "FACT Stock Price, News & Analysis | FACT II Acquisition",
+          "source_url": "https://www.stocktitan.net/overview/FACT",
+          "summary": "The snippet reports that FACT II Acquisition Corp. entered into a definitive business combination agreement with Precision Aerospace & Defense Group, Inc., but it does not mention the timing of the announcement relative to 'yesterday'.",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232",
+          "summary": "The article discusses the methodology of journalistic fact-checkers and criteria for evaluating statements, which is completely unrelated to the claim about an acquisition.",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Fact Check: Olive Garden Is Closing All Locations, as Announced in 2023?",
+          "source_url": "https://finance.yahoo.com/news/fact-check-olive-garden-closing-193800740.html",
+          "summary": "The article is a fact-check addressing a rumor about Olive Garden closing all locations, which has no connection to the claim about an acquisition announcement.",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Google Fact Check Tools - Google News Initiative",
+          "source_url": "https://newsinitiative.withgoogle.com/resources/trainings/google-fact-check-tools",
+          "summary": "The snippet describes the features and usage of Google Fact Check Tools, containing no information about any specific acquisition.",
+          "stance": "neutral"
+        }
+      ],
+      "sources": [
+        {
+          "title": "FACT II Acquisition (FACT) Stock News & Updates | StockTitan",
+          "url": "https://www.stocktitan.net/news/FACT",
+          "snippet": "## Correction: Precision Aerospace & Defense Group Announces Letter of Intent with Leader in Communications, Security and Surveillance Integration Solutions\n\nPrecision Aerospace & Defense Group announced a non-binding Letter of Intent to acquire a provider of telecommunications equipment, surveillance systems and structural steel fabrication for defense applications, alongside its proposed business combination with FACT II Acquisition Corp (NASDAQ: FACT). [...] Precision Aerospace & Defense Group and FACT II Acquisition Corp (NASDAQ: FACT) filed an amended Form S-4 with the SEC for their proposed business combination. The filing adds updated financial and other material information to the transaction first announced December 1, 2025. [...] Precision Aerospace & Defense Group announced a non-binding Letter of Intent to acquire a leading provider of telecommunications equipment, surveillance systems and structural steel fabrication for defense applications. The potential deal, related to PAD’s proposed business combination with FACT (NASDAQ: FACT), aligns with its buy-and-build growth strategy.",
+          "publication_date": null
+        },
+        {
+          "title": "FACT Stock Price, News & Analysis | FACT II Acquisition",
+          "url": "https://www.stocktitan.net/overview/FACT",
+          "snippet": "FACT II Acquisition Corp. has announced that it entered into a definitive business combination agreement with Precision Aerospace & Defense Group, Inc. (PAD), a high-growth aerospace and defense engineering and manufacturing firm. Upon closing, the combined company is expected to operate under the name Precision Aerospace & Defense Group, Inc. and to be listed on Nasdaq under the ticker symbols “PAD” and “PADWW,” subject to approvals and customary closing conditions. [...] FACT II Acquisition Corp. has announced that it entered into a definitive business combination agreement with Precision Aerospace & Defense Group, Inc. (PAD), a high-growth aerospace and defense engineering and manufacturing firm. The proposed transaction would result in PAD becoming a publicly listed company on the Nasdaq Stock Market. Under the business combination agreement, the combined company is expected to operate under the name Precision Aerospace & Defense Group, Inc., with its common [...] The companies have announced a definitive business combination agreement under which PAD’s implied enterprise value is described in the joint press release. Following the business combination, PAD’s current shareholders are expected to own a majority of the combined company’s outstanding shares, and the combined company is expected to be named Precision Aerospace & Defense Group, Inc., with its common stock and warrants anticipated to trade on Nasdaq under the symbols “PAD” and “PADWW,” subject",
+          "publication_date": null
+        },
+        {
+          "title": "Cross-checking journalistic fact-checkers: The role of sampling and scaling in interpreting false and misleading statements",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232",
+          "snippet": "are checked. PolitiFact indicates they check statements based on five criteria: (1) Is the statement rooted in a fact that is verifiable? (2) Does the statement seem misleading or sound wrong? (3) Is the statement significant? (4) Is the statement likely to be passed on and repeated by others? (5) Would a typical person hear or read the statement and wonder: Is that true? The Washington Post’s Fact Checker, on the other hand, evaluates “the statements of political figures regarding issues of [...] Presently, most fact-checking is a human activity. Therefore, issues of how a fact-check is triggered, the ways in which it yields information to confirm or disconfirm the veracity of a statement, and its ability to be shared with many people rather than informing the judgment of a single individual are important consequences to applying the TDT propositions. Importantly, TDT states (regardless of who is doing the detecting), deception is most accurately detected, “by comparison of the [...] In addition, we only evaluated false statements when comparing PolitiFact and The Washington Post; comparing true and false statements required additional fact-checking with Snopes and FactCheck.org. Therefore, a limitation of some analyses is that we cannot evaluate potential disagreements on truths, which are also critical to fact-checking. Nonetheless, the data suggest that fact-check results are mostly accurate. It is also important to note that while coders made independent cross-checks",
+          "publication_date": null
+        },
+        {
+          "title": "Fact Check: Olive Garden Is Closing All Locations, as Announced in 2023?",
+          "url": "https://finance.yahoo.com/news/fact-check-olive-garden-closing-193800740.html",
+          "snippet": "By email, Jessica Dinon, the company's senior director of communications in social media and creative services, told us, \"I'm not sure where the original information came from but I can assure you it is false.\"\n\n## Olive Garden Growth, by the Numbers\n\nIn our research, we found that Olive Garden was highly profitable for Darden Restaurants, and that the Italian restaurant chain had grown its number of restaurant locations annually over the last several years. [...] Anna Powell Denton for The Washington Post via Getty Images\n\n \n\nClaim:\n\nAn online advertisement displayed in November 2023 said that Olive Garden planned to close its chain of Italian restaurants.\n\nRating:\n\nRating: False [...] The article did not reveal that the Olive Garden restaurant chain would be closing down. The ads were false clickbait that led to the massive (and possibly outdated) article, as we noted as the top of this fact check.\n\n## Olive Garden Rep Says the Rumor Is 'False'\n\nThe lengthy article claimed that Olive Garden planned to close 85 of its over 900 locations in the future.\n\nTo find out more, we contacted Darden Restaurants, the company that owns Olive Garden, to ask about the claim.",
+          "publication_date": null
+        },
+        {
+          "title": "Google Fact Check Tools - Google News Initiative",
+          "url": "https://newsinitiative.withgoogle.com/resources/trainings/google-fact-check-tools",
+          "snippet": "Type in a keyword to see the latest fact checks tagged with that word or upload an image to see if it's been fact checked before.\n\nSearch results are listed by recency and include the name of the organization that conducted the fact check and how they rated the claim (for example: “false” or “incorrect”). To read the entire fact check, click the link provided. [...] In the first box, enter a description of the claim that you are reviewing, the date it was made, and in the space marked Claim appearance, enter the URL (or URLs) where it was published. Claim author is the name of the person, organization or other entity who made the claim. Rating text is where you state your assessment of the truthfulness of the claim.\n\nWhen finished, click Create to add the markup to the article. [...] Search and explore global fact checks  \n  \nMillions of new articles are published online every day.  Unfortunately, not all of them are factual or true, making it hard for journalists to distinguish fact from fiction. Fact Check tools can help journalists find articles that debunk false or misleading claims.\n\n1. Google Fact Check Explorer\n\n2. Accessing the Fact Check Markup tool\n\n3. Adding ClaimReview to your fact checks\n\n4. Google Fact Check Markup API\n\nFor more lessons, visit:",
+          "publication_date": null
+        }
+      ]
+    },
+    {
+      "claim": {
+        "id": 3,
+        "text": "ChatGPT will be integrated into all Apple devices starting next month."
+      },
+      "verdict": "FALSE",
+      "confidence": 95,
+      "reasoning": "The collected evidence, including official announcements from Apple and reports from Business Insider, explicitly states that ChatGPT integration is coming to Apple devices 'later this year' (as part of iOS 18, iPadOS 18, and macOS Sequoia), which directly contradicts the claim that it will start 'next month'.",
+      "evidence": [
+        {
+          "source_title": "Apple 'Brilliant' for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider",
+          "source_url": "https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6?international=true&amp%3Br=US&amp%3BIR=T",
+          "summary": "The source states that ChatGPT integration is coming 'later this year,' which contradicts the claim that it will start 'next month.'",
+          "stance": "contradicts"
+        },
+        {
+          "source_title": "Apple 'Brilliant' for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider",
+          "source_url": "https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6",
+          "summary": "The source states that ChatGPT integration is coming 'later this year,' which contradicts the claim that it will start 'next month.'",
+          "stance": "contradicts"
+        },
+        {
+          "source_title": "Apple 'Brilliant' for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider",
+          "source_url": "https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6?international=true&r=US&IR=T",
+          "summary": "The source states that ChatGPT integration is coming 'later this year,' which contradicts the claim that it will start 'next month.'",
+          "stance": "contradicts"
+        },
+        {
+          "source_title": "Apple Won't Pay OpenAI to Use ChatGPT in Its Devices: Report - Business Insider",
+          "source_url": "https://www.businessinsider.com/apple-wont-pay-openai-for-chatgpt-in-its-devices-report-2024-6",
+          "summary": "The source confirms ChatGPT will be added to Apple devices, but does not specify a timeline, though other sources indicate it is later in the year rather than next month.",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Introducing Apple Intelligence for iPhone, iPad, and Mac - Apple",
+          "source_url": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac",
+          "summary": "The source states that ChatGPT will come to iOS 18, iPadOS 18, and macOS Sequoia 'later this year,' which directly contradicts the claim that it will start 'next month.'",
+          "stance": "contradicts"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Apple 'Brilliant' for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider",
+          "url": "https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6?international=true&amp%3Br=US&amp%3BIR=T",
+          "snippet": "Starting later this year, Apple users will have free access to OpenAI's ChatGPT model without having to create an account. ChatGPT will be integrated with Apple's new and improved Siri feature, allowing the AI model to scour the internet and quickly answer user questions.\n\nApple noted that the ChatGPT integration will be optional for users. Customers can opt out of OpenAI's presence on their devices, which could go a long way in assuaging AI-wary users about privacy concerns. [...] At the Worldwide Developers Conference on Monday, the company introduced Apple Intelligence, an in-house suite of AI services coming to devices this fall. While Apple's branded AI was the focal point of Monday's keynote, the company also announced a highly-anticipated partnership with OpenAI, albeit somewhat unceremoniously. [...] Apple is notably taking a safety-first approach to adopting AI. The company said Monday that it did not use customers' private or personal data to train the foundation models that will power Apple Intelligence. Instead, the Apple model was trained on licensed data and publicly available information. The system will also be operated via Private Cloud Compute, an infrastructure designed to handle large AI requests privately.",
+          "publication_date": null
+        },
+        {
+          "title": "Apple 'Brilliant' for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider",
+          "url": "https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6",
+          "snippet": "Starting later this year, Apple users will have free access to OpenAI's ChatGPT model without having to create an account. ChatGPT will be integrated with Apple's new and improved Siri feature, allowing the AI model to scour the internet and quickly answer user questions.\n\nApple noted that the ChatGPT integration will be optional for users. Customers can opt out of OpenAI's presence on their devices, which could go a long way in assuaging AI-wary users about privacy concerns. [...] At the Worldwide Developers Conference on Monday, the company introduced Apple Intelligence, an in-house suite of AI services coming to devices this fall. While Apple's branded AI was the focal point of Monday's keynote, the company also announced a highly-anticipated partnership with OpenAI, albeit somewhat unceremoniously. [...] Apple is notably taking a safety-first approach to adopting AI. The company said Monday that it did not use customers' private or personal data to train the foundation models that will power Apple Intelligence. Instead, the Apple model was trained on licensed data and publicly available information. The system will also be operated via Private Cloud Compute, an infrastructure designed to handle large AI requests privately.",
+          "publication_date": null
+        },
+        {
+          "title": "Apple 'Brilliant' for Letting Users Opt Out of ChatGPT Integration: Analyst - Business Insider",
+          "url": "https://www.businessinsider.com/apple-openai-chatgpt-integration-privacy-opt-out-safety-concerns-2024-6?international=true&r=US&IR=T",
+          "snippet": "Starting later this year, Apple users will have free access to OpenAI's ChatGPT model without having to create an account. ChatGPT will be integrated with Apple's new and improved Siri feature, allowing the AI model to scour the internet and quickly answer user questions.\n\nApple noted that the ChatGPT integration will be optional for users. Customers can opt out of OpenAI's presence on their devices, which could go a long way in assuaging AI-wary users about privacy concerns. [...] At the Worldwide Developers Conference on Monday, the company introduced Apple Intelligence, an in-house suite of AI services coming to devices this fall. While Apple's branded AI was the focal point of Monday's keynote, the company also announced a highly-anticipated partnership with OpenAI, albeit somewhat unceremoniously. [...] Apple is notably taking a safety-first approach to adopting AI. The company said Monday that it did not use customers' private or personal data to train the foundation models that will power Apple Intelligence. Instead, the Apple model was trained on licensed data and publicly available information. The system will also be operated via Private Cloud Compute, an infrastructure designed to handle large AI requests privately.",
+          "publication_date": null
+        },
+        {
+          "title": "Apple Won't Pay OpenAI to Use ChatGPT in Its Devices: Report - Business Insider",
+          "url": "https://www.businessinsider.com/apple-wont-pay-openai-for-chatgpt-in-its-devices-report-2024-6",
+          "snippet": "OpenAI's access to Apple users is also fairly extensive. At its Worldwide Developer's Conference on Monday, Apple announced it would add ChatGPT to its iPhone, iPad, and Mac products. Users are set to have access to writing tools, document reading, and image generation without switching between apps. [...] Apple announced on Monday that it would integrate OpenAI's ChatGPT into its devices. But people familiar with the deal told Bloomberg that the iPhone maker wasn't paying OpenAI to use its product.\n\nThey said that instead, Apple thought the new deal would bring OpenAI's technology closer to hundreds of millions of users and would be of equal or greater value than a cash payment. [...] And OpenAI stands to reap the benefits of access to Apple's vast platform. Being integrated into devices means it's set to reach millions of Apple users, some of whom may upgrade to paid ChatGPT versions, access to which starts at $20 a month.\n\nApple and OpenAI didn't immediately respond to requests for comment from Business Insider sent outside regular business hours.",
+          "publication_date": null
+        },
+        {
+          "title": "Introducing Apple Intelligence for iPhone, iPad, and Mac - Apple",
+          "url": "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac",
+          "snippet": "Privacy protections are built in for users who access ChatGPT — their IP addresses are obscured, and OpenAI won’t store requests. ChatGPT’s data-use policies apply for users who choose to connect their account.\n\nChatGPT will come to iOS 18, iPadOS 18, and macOS Sequoia later this year, powered by GPT-4o. Users can access it for free without creating an account, and ChatGPT subscribers can connect their accounts and access paid features right from these experiences.\n\nAvailability [...] Apple is integrating ChatGPT access into experiences within iOS 18, iPadOS 18, and macOS Sequoia, allowing users to access its expertise — as well as its image- and document-understanding capabilities — without needing to jump between tools.\n\nSiri can tap into ChatGPT’s expertise when helpful. Users are asked before any questions are sent to ChatGPT, along with any documents or photos, and Siri then presents the answer directly. [...] Additionally, ChatGPT will be available in Apple’s systemwide Writing Tools, which help users generate content for anything they are writing about. With Compose, users can also access ChatGPT image tools to generate images in a wide variety of styles to complement what they are writing.",
+          "publication_date": null
+        }
+      ]
+    },
+    {
+      "claim": {
+        "id": 4,
+        "text": "CEO Tim Cook confirmed the deal at a press conference in Cupertino."
+      },
+      "verdict": "UNSUPPORTED",
+      "confidence": 95,
+      "reasoning": "The provided evidence mentions Apple CEO Tim Cook, Cupertino, and various events/conferences, but contains no information or confirmation regarding a specific 'deal' being confirmed by Cook at a press conference. Therefore, there is insufficient evidence to verify the claim.",
+      "evidence": [
+        {
+          "source_title": "Tim Cook stepping down this year, John Ternus confirmed as next Apple CEO - 9to5Mac",
+          "source_url": "https://9to5mac.com/2026/04/20/apple-ceo-tim-cook-stepping-down-john-ternus-confirmed-as-new-apple-ceo",
+          "summary": "### AAPL Company\n\nBreaking news from Cupertino. We’ll give you t…\n\nTim Cook\n\n### Tim Cook\n\nThe CEO of Apple…\n\nJohn Ternus\n\n## Author\n\nAvatar for Zac Hall   Zac Hall   apollozac \n\nZac Hall is a Senior Editor, covering Apple, apps, and AI. He joined 9to5Mac in 2013. [...] Apple says Tim Cook will beco",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Apple CEO Tim Cook boasts of future AI plans after earnings beat",
+          "source_url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-boasts-of-future-ai-plans-after-earnings-beat-214757677.html?fr=sycsrp_catchall",
+          "summary": "CUPERTINO, CALIFORNIA - SEPTEMBER 12:  Apple CEO Tim Cook holds up a new iPhone 15 Pro during an Apple event on September 12, 2023 in Cupertino, California. Apple revealed its lineup of the latest iPhone 15 versions as well as other product upgrades during the event. (Photo by Justin Sullivan/Getty ",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Apple CEO Tim Cook boasts of future AI plans after earnings beat",
+          "source_url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-boasts-of-future-ai-plans-after-earnings-beat-214757677.html",
+          "summary": "CUPERTINO, CALIFORNIA - SEPTEMBER 12:  Apple CEO Tim Cook holds up a new iPhone 15 Pro during an Apple event on September 12, 2023 in Cupertino, California. Apple revealed its lineup of the latest iPhone 15 versions as well as other product upgrades during the event. (Photo by Justin Sullivan/Getty ",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook | PBS News",
+          "source_url": "https://www.pbs.org/newshour/science/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook",
+          "summary": "# Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook\n\nCUPERTINO, Calif. (AP) — Apple unveiled new artificial intelligence features with a focus on privacy and day-to-day at its annual developers conference Monday the last one featuring CEO Tim Cook befor",
+          "stance": "neutral"
+        },
+        {
+          "source_title": "Apple CEO Tim Cook Says You Can't Build Privacy in After the Fact - Business Insider",
+          "source_url": "https://www.businessinsider.com/apple-ceo-tim-cook-dreamforce-interview-privacy-2019-11",
+          "summary": "Apple CEO Tim Cook once again reiterated his company's emphasis on privacy when speaking at Salesforce's Dreamforce conference on Tuesday.\n\nIn conversation with Salesforce founder and co-CEO Marc Benioff, Cook said that privacy is a factor that must be present throughout the development process when",
+          "stance": "neutral"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Tim Cook stepping down this year, John Ternus confirmed as next Apple CEO - 9to5Mac",
+          "url": "https://9to5mac.com/2026/04/20/apple-ceo-tim-cook-stepping-down-john-ternus-confirmed-as-new-apple-ceo",
+          "snippet": "### AAPL Company\n\nBreaking news from Cupertino. We’ll give you t…\n\nTim Cook\n\n### Tim Cook\n\nThe CEO of Apple…\n\nJohn Ternus\n\n## Author\n\nAvatar for Zac Hall   Zac Hall   apollozac \n\nZac Hall is a Senior Editor, covering Apple, apps, and AI. He joined 9to5Mac in 2013. [...] Apple says Tim Cook will become executive chairman of the board. Ternus, who was previously hardware engineering chief, will be replaced by Johny Srouji in an expanded capacity and Tom Marieb more directly.\n\nThe CEO change will occur later this year with Ternus set to take over for Cook on September 1, 2026. Srouji and Marieb take over for Ternus today ahead of the CEO transition.\n\nApple confirmed the news in an Apple Newsroom post announcing the CEO transition. [...] Apple CEO Tim Cook is stepping down, and John Ternus is taking over. The CEO transition has quietly been underway for some time now. Starting today, the transition is happening publicly and will be complete this fall.\n\n## Tim Cook will become Apple Executive Chairman as John Ternus becomes Chief Executive Officer",
+          "publication_date": null
+        },
+        {
+          "title": "Apple CEO Tim Cook boasts of future AI plans after earnings beat",
+          "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-boasts-of-future-ai-plans-after-earnings-beat-214757677.html?fr=sycsrp_catchall",
+          "snippet": "CUPERTINO, CALIFORNIA - SEPTEMBER 12:  Apple CEO Tim Cook holds up a new iPhone 15 Pro during an Apple event on September 12, 2023 in Cupertino, California. Apple revealed its lineup of the latest iPhone 15 versions as well as other product upgrades during the event. (Photo by Justin Sullivan/Getty Images)\n\nApple CEO Tim Cook holds up a new iPhone 15 Pro during an Apple event on Sept. 12, 2023 in Cupertino, Calif. (Justin Sullivan/Getty Images) · Justin Sullivan via Getty Images [...] +0.79%\n\nApple (AAPL) CEO Tim Cook took time during the company's second quarter earnings call on Thursday to drum up excitement for the iPhone maker's upcoming generative AI offerings.\n\nIn his remarks, Cook told listeners that the company is bullish about the opportunities generative AI has to offer and that it is making significant investments in the technology. [...] \"We believe in the transformative power and promise of AI, and we believe we have advantages that will differentiate us in this new era including Apple's unique combination of seamless hardware, software, and services integration; groundbreaking Apple silicon with our industry leading neural engine; and our unwavering focus on privacy,\" Cook said.\n\nAhead of the call, Apple reported better-than-anticipated earnings and revenue, though iPhone sales fell about 10% year over year.",
+          "publication_date": null
+        },
+        {
+          "title": "Apple CEO Tim Cook boasts of future AI plans after earnings beat",
+          "url": "https://finance.yahoo.com/news/apple-ceo-tim-cook-boasts-of-future-ai-plans-after-earnings-beat-214757677.html",
+          "snippet": "CUPERTINO, CALIFORNIA - SEPTEMBER 12:  Apple CEO Tim Cook holds up a new iPhone 15 Pro during an Apple event on September 12, 2023 in Cupertino, California. Apple revealed its lineup of the latest iPhone 15 versions as well as other product upgrades during the event. (Photo by Justin Sullivan/Getty Images)\n\nApple CEO Tim Cook holds up a new iPhone 15 Pro during an Apple event on Sept. 12, 2023 in Cupertino, Calif. (Justin Sullivan/Getty Images) · Justin Sullivan via Getty Images [...] \"We believe in the transformative power and promise of AI, and we believe we have advantages that will differentiate us in this new era including Apple's unique combination of seamless hardware, software, and services integration; groundbreaking Apple silicon with our industry leading neural engine; and our unwavering focus on privacy,\" Cook said.\n\nAhead of the call, Apple reported better-than-anticipated earnings and revenue, though iPhone sales fell about 10% year over year. [...] Apple (AAPL) CEO Tim Cook took time during the company's second quarter earnings call on Thursday to drum up excitement for the iPhone maker's upcoming generative AI offerings.\n\nIn his remarks, Cook told listeners that the company is bullish about the opportunities generative AI has to offer and that it is making significant investments in the technology.",
+          "publication_date": null
+        },
+        {
+          "title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook | PBS News",
+          "url": "https://www.pbs.org/newshour/science/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook",
+          "snippet": "# Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook\n\nCUPERTINO, Calif. (AP) — Apple unveiled new artificial intelligence features with a focus on privacy and day-to-day at its annual developers conference Monday the last one featuring CEO Tim Cook before he turns his post over to John Ternus in September. [...] Left:\nApple CEO Tim Cook gestures on stage during Apple's annual Worldwide Developers Conference in Cupertino, California, on June 8, 2026. Photo by Carlos Barria/ Reuters\n\n## Related\n\nBy Kelvin Chan, Associated Press\n\nBy William Brangham, Karina Cuevas, Bridget Craig\n\nBy Kelvin Chan, Associated Press\n\nBy Associated Press\n\n## Go Deeper\n\nBarbara Ortutay, Associated Press\nBarbara Ortutay, Associated Press\n\nSupport Provided By:\nLearn more\n\nWeb ad - adjusted (1)\n\n### Educate your inbox [...] Politics\nArts\nNation\nWorld\nEconomy\nScience\nHealth\nEducation\nEducation\npp-liz-landscape\n\nInside the White House with Liz Landers\n\n## Stand with free and independent journalism.\n\nJoin Press Pass.\n\n## Midterm Election Results\n\nView the latest called races and outcomes\n\n#### Get news alerts from PBS News\n\n##### Turn on desktop notifications?\n\nApple Worldwide Developers Conference in Cupertino\n\nBarbara Ortutay, Associated Press\nBarbara Ortutay, Associated Press\n\nLeave your feedback",
+          "publication_date": null
+        },
+        {
+          "title": "Apple CEO Tim Cook Says You Can't Build Privacy in After the Fact - Business Insider",
+          "url": "https://www.businessinsider.com/apple-ceo-tim-cook-dreamforce-interview-privacy-2019-11",
+          "snippet": "Apple CEO Tim Cook once again reiterated his company's emphasis on privacy when speaking at Salesforce's Dreamforce conference on Tuesday.\n\nIn conversation with Salesforce founder and co-CEO Marc Benioff, Cook said that privacy is a factor that must be present throughout the development process when creating new products, rather than being incorporated after-the-fact. His comments come at a time when large tech firms are under increasing scrutiny over how they handle consumer data. [...] \"We've never set the objective to be first,\" Cook said. \"We've always set the objective to be the best. We've never set it to make the most, but to be the best and to have the best. And that north star has helped guide us through the temptations of going for market share and the other kinds of things that companies can have objectives to do.\"\n\nSee below for the full video from the first day of Dreamforce. Benioff's conversation with Cook begins around the 1:40 mark. [...] In 2016, Apple rejected the FBI's demand that the company create a version of its iOS operating system that would allow law enforcement to gain access to the locked phone of a San Bernardino shooting suspect. Cook at the time said the FBI wanted Apple to create \"the software equivalent of cancer.\" The FBI later backed down.\n\nCook also discussed Apple's broader values as a company when speaking with Benioff, saying that \"being the best\" is its \"north star.\"",
+          "publication_date": null
+        }
+      ]
+    }
+  ],
+  "overall_trust_score": 24,
+  "summary": "An analysis of the report regarding Apple's alleged $50 billion acquisition of OpenAI reveals that the central claims are entirely false and unsupported. With an overall trust score of 24, the text falsely asserts that ChatGPT will be integrated into all Apple devices next month and fabricates a press conference confirmation by CEO Tim Cook.",
+  "generated_at": "2026-11-17T02:29:02.800Z"
+}
